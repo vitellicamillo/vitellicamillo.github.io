@@ -39,12 +39,11 @@ h3 {
     font-family: Georgia;
 }
   
-p {
+p, figcaption {
     color: aliceblue;
     line-height: 1.3em;
     text-align: justify;
     width: 100%;
     font-family: Helvetica;
     font-size: 18px;
-  }
-
+}
