@@ -47,3 +47,9 @@ p, figcaption {
     font-family: Helvetica;
     font-size: 18px;
 }
+
+header {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2010-kodiak-bear-1.jpg/440px-2010-kodiak-bear-1.jpg");
+    background-repeat: no-repeat;
+    opacity: 50%;
+}
