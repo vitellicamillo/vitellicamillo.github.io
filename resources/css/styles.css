@@ -13,6 +13,10 @@ header {
     background-color: darkblue;
 }
 
+header h1 {
+    color: white;
+}
+
 section {
     border: 3px solid black;
 }
