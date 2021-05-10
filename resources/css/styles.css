@@ -42,13 +42,22 @@ nav li{
     margin-right: 100px;
     padding: 50px;
     border: 3px solid whitesmoke;
-    text-align: center;  
+    text-align: center; 
+    z-index: 10; 
 }
 
 .whoami {
     float: left;
     text-align: center;
     background-color: azure;
+}
+
+.whoami img {
+    width: 200px;
+    height: 200px;
+    /*border: 3px solid whitesmoke;*/
+    border-radius: 100px;
+
 }
 
 .whoami p {
@@ -59,7 +68,6 @@ nav li{
 .expertise {
     float:left;
     width: 100%;
-    margin: 15px 0px;
     background-color: dodgerblue;
     color: whitesmoke;
     text-align: center;
@@ -89,8 +97,8 @@ nav li{
 .contact {
     float: left;
     width: 100%;
-    margin-top: 15px;
     text-align: center;
+    background-color: azure;
 }
 
 .contact p{ 
